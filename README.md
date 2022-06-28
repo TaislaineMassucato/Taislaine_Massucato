@@ -13,7 +13,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Tay-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Tay-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Tay-pic" height="150" style="border-radius:50px;" src="C:\Users\EuTay\OneDrive\Área de Trabalho">
+  <img align="right" alt="Tay-pic" height="150" style="border-radius:50px;" src="C:\Users\EuTay\OneDrive\Área de Trabalho\104451227.jpg">
 </div>
   
   ##
